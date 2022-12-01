@@ -39,18 +39,18 @@ In recent times, investing is as important as earning. Financial literacy can al
 
 
 
-#### <p style="text-decoration:underline">API Reference</p>
+## <p style="text-decoration:underline">API Reference</p>
 <a href="https://www.alphavantage.co/documentation/" target="_blank">Alpha Vantage</a>
 
 
-#### <p style="text-decoration:underline">How to use?</p>
+### <p style="text-decoration:underline">How to use?</p>
 
 
 
 
-#### <p style="text-decoration:underline">Credits</p>
+### <p style="text-decoration:underline">Credits</p>
 <ul>
 <li><a href="https://youtu.be/DCaH4bQ4DxA" target = "blank" style = "text-decoration:none;color:black">Insert Data from Firebase using Python</a></li>
 <li><a href="https://www.geeksforgeeks.org/how-to-retrieve-data-from-the-firebase-realtime-database-in-android/" target = "blank" style = "text-decoration:none;color:black">Retrieve Data from Firebase using Android</a></li>
 
-###### <p><a href="/LICENSE">MIT License</a></p>
+###### <p>License: <a href="/LICENSE">MIT License</a></p>
