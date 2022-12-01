@@ -18,12 +18,10 @@ In recent times, investing is as important as earning. Financial literacy can al
 <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/python--v1.png" alt="Python" width="40" height="40">
 <a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png" alt="Java" width="40" height="40">
 
-<p style="text-decoration:underline;color:black">Database</p>
+<p style="text-decoration:underline;color:black">Databases Used</p>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/firebase.png" alt="Firebase" width="40" height="40">
 
-<br>
-<br>
-<p style="text-decoration:underline;color:black">Libraries</p>
+<p style="text-decoration:underline;color:black">Libraries Used</p>
 <a href="https://numpy.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/numpy.png" alt="Numpy" width="40" height="40">
 <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/pandas.png" alt="Pandas" width="40" height="40">
 
