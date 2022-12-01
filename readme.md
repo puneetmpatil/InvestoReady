@@ -27,7 +27,6 @@ In recent times, investing is as important as earning. Financial literacy can al
 
 
 ### <u>Features</u>
-<hr/>
 <ol style="color:black">
     <li>AI powered portfolio</li>
     <li>Return of Investment Calculator (ROI)</li>
