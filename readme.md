@@ -9,18 +9,20 @@ In recent times, investing is as important as earning. Financial literacy can al
 
 
 ### <p style="text-decoration:underline">Tech/ Framework used</p>
-<p style="text-decoration:underline">IDES</p>
-
-
+<u>IDES</u>
+<br>
 <a href="https://developer.android.com/studio?gclid=EAIaIQobChMI-YHVttfW-wIVC5JmAh0shAucEAAYASAAEgJW8PD_BwE&gclsrc=aw.ds" target="_blank"><img src="https://img.icons8.com/fluency/48/null/android-studio--v2.png" alt="Android studio" width="40" height="40"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"><a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" alt="Google Colab" width="40" height="40"><!--<img src="https://img.icons8.com/fluency/48/null/jupyter.png" alt="Jupyter Notebook" width="40" height="40"><a href="https://colab.research.google.com/" target="_blank"> -->
 
 <u>Programming Languages</u>
+<br>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/python--v1.png" alt="Python" width="40" height="40"><a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png" alt="Java" width="40" height="40"></a>
 
 <u>Database</u>
+<br>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/firebase.png" alt="Firebase" width="40" height="40"></a>
 
 <u>Libraries</u>
+<br>
 <a href="https://numpy.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/numpy.png" alt="Numpy" width="40" height="40">
 <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/pandas.png" alt="Pandas" width="40" height="40">
 
