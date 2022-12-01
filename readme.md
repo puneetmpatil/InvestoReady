@@ -1,14 +1,14 @@
 # TradeMaster
 
 
-### <p style="text-decoration:underline">Motivation</p>
+## <p style="text-decoration:underline">Motivation</p>
 In recent times, investing is as important as earning. Financial literacy can allow a person to reach different level of heights. Investing is considered to be a risky task (particularly in stocks) because of which many people avoid it. Hence to make investing easy we are proposing this idea.
 
 
-#### <p style="text-decoration:underline">Screenshots</p>
+### <p style="text-decoration:underline">Screenshots</p>
 
 
-#### <p style="text-decoration:underline">Tech/ Framework used</p>
+### <p style="text-decoration:underline">Tech/ Framework used</p>
 <p style="text-decoration:underline">IDES</p>
 
 
@@ -26,28 +26,28 @@ In recent times, investing is as important as earning. Financial literacy can al
 <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/pandas.png" alt="Pandas" width="40" height="40">
 
 
-#### <p style="text-decoration:underline">Features</p>
+### <p style="text-decoration:underline">Features</p>
 <ol style="color:black">
     <li>AI powered portfolio</li>
     <li>Return of Investment Calculator (ROI)</li>
 </ol>
 
-##### <p style="text-decoration:underline">Code Examples</p>
+### <p style="text-decoration:underline">Code Examples</p>
 
-##### <p style="text-decoration:underline">Installation</p>
+### <p style="text-decoration:underline">Installation</p>
 
 
 
-###### <p style="text-decoration:underline">API Reference</p>
+#### <p style="text-decoration:underline">API Reference</p>
 <a href="https://www.alphavantage.co/documentation/" target="_blank">Alpha Vantage</a>
 
 
-###### <p style="text-decoration:underline">How to use?</p>
+#### <p style="text-decoration:underline">How to use?</p>
 
 
 
 
-###### <p style="text-decoration:underline">Credits</p>
+#### <p style="text-decoration:underline">Credits</p>
 <ul>
 <li><a href="https://youtu.be/DCaH4bQ4DxA" target = "blank" style = "text-decoration:none;color:black">Insert Data from Firebase using Python</a></li>
 <li><a href="https://www.geeksforgeeks.org/how-to-retrieve-data-from-the-firebase-realtime-database-in-android/" target = "blank" style = "text-decoration:none;color:black">Retrieve Data from Firebase using Android</a></li>
