@@ -24,7 +24,7 @@ In recent times, investing is as important as earning. Financial literacy can al
 <u>Libraries</u>
 <br>
 <a href="https://numpy.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/numpy.png" alt="Numpy" width="40" height="40">
-<a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/pandas.png" alt="Pandas" width="40" height="40">
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/pandas.png" alt="Pandas" width="40" height="40">
 
 
 ### <p style="text-decoration:underline">Features</p>
