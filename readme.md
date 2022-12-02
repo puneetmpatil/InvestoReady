@@ -14,7 +14,7 @@ In recent times, investing is as important as earning. Financial literacy can al
 
 <u>Programming Languages</u>
 <br>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/python--v1.png" alt="Python" width="40" height="40"><a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png" alt="Java" width="40" height="40"></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/python--v1.png" alt="Python" width="40" height="40"><a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png" alt="Java" width="40" height="40"></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/null/javascript--v1.png" alt="Javascript" width="40" height="40"></a>
 
 <u>Database</u>
 <br>
@@ -24,6 +24,7 @@ In recent times, investing is as important as earning. Financial literacy can al
 <br>
 <a href="https://numpy.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/numpy.png" alt="Numpy" width="40" height="40">
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/pandas.png" alt="Pandas" width="40" height="40">
+<a href="https://reactjs.org/" target="_blank"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K" alt="React JS" width="40" height="40">
 
 
 ### <u>Features</u>
