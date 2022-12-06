@@ -1,4 +1,5 @@
 # InvestoReady
+## Table of Contents
 - [ Motivation ](#motivation)
 - [ Screenshots ](#screenshots)
 - [ API Reference ](#apireference)
