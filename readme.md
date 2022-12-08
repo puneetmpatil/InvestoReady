@@ -92,14 +92,16 @@ For example: TCS has offered 1:1 ratio of stocks in the years 2006, 2009 and 201
 <li>Define dividend factor of the stock</li>
 <li>If the base year = 2006 and the current year = 2022, no of years = 17. Therefore number of financial years = 16</li>
 <li>Find initial quantity of stocks</li>
-quantity = investment_amount/price(2006)
+
+**quantity = investment_amount/price(2006)**
 <li>Initialize total dividend to zero</li>
 <li>
 for i := (no of years - 2) to 0 and year := (2006)
 <ul>
 <li>If year is a bonus year multiply quantity of stocks by bonus_year_factor_ratio for that year</li>
 <li>
-total_dividendent =  total_dividendent + quantity* ((price[i] * dividendFactor) / 100)</li>
+
+**total_dividendent =  total_dividendent + quantity* ((price[i] * dividendFactor) / 100)**</li>
 <li>Increment value of year</li>
 <li>Decrement value of i</li>
 </ul>
