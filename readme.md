@@ -70,6 +70,29 @@ In recent times, investing is as important as earning. Financial literacy can al
 - Total dividend received over no of years (current year - base year)
 - Current evaluation 
 
+**Algorithm:**
+<ol>
+<li> Input amount to be invested from user</li>
+<li> Let base year for calculation be 2006</li>
+<li> Define an array which will store the bonus year of each stock and another array for bonus year ratio factor.
+For example: TCS has offered 1:1 ratio of stocks in the years 2006, 2009 and 2018. It means that the quantity of stocks doubled in those years. </li>
+<li> Define an array price which will contain prices from 2006 (base year) to 2022 (current year) in decreasing order of year<li>
+<li>Define dividend factor of the stock</li>
+<li>If the base year = 2006 and the current year = 2022, no of years = 17. Therefore number of financial years = 16</li>
+<li>Find initial quantity of stocks</li>
+quantity = investment_amount/price(2006)
+<li>Initialize total dividend to zero</li>
+<li>for i := (no of years - 2) to 0 and year := (2006)
+If year is a bonus year
+Multiply quantity of stocks by bonus_year_factor_ratio for that year
+total_dividendent =  total_dividendent + quantity* ((price[i] * dividendFactor) / 100)
+Increment value of year
+Decrement value of i
+</li>
+<li>Output current evaluation and total dividend received
+**current_valuation = (current_stock_price * quantity_of_stocks)**</li>
+</ol>
+
 <a name="portfolio"></a>
 <ins>**Portfolio Generation Algorithm**</ins>
 
