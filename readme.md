@@ -6,6 +6,11 @@ An Android application that will display top 15 stocks (Selected by a stock mark
 - [ Motivation ](#motivation)
 - [ Screenshots ](#screenshots)
 - [ Technology/Framework Used ](#technology)
+- [ Features ](#features)
+- [ Code Examples ](#codeExamples)
+- [ Installation ](#installation)
+- [ How To Use ? ](#howToUse)
+- [ Credits ](#credits)
 - [ API Reference ](#apireference)
 
 
@@ -15,7 +20,7 @@ An Android application that will display top 15 stocks (Selected by a stock mark
 - [@puneetmpatil](https://github.com/puneetmpatil): Backend & Logic of App
 
 <a name = "motivation"></a>
-## <u>Motivation</u>
+## <ins>Motivation</ins>
 In recent times, investing is as important as earning. Financial literacy can allow a person to reach different level of heights. Investing is considered to be a risky task (particularly in stocks) because of which many people avoid it. Hence to make investing easy we are proposing this idea.
 
 <a name="screenshots"></a>
@@ -43,24 +48,28 @@ In recent times, investing is as important as earning. Financial literacy can al
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React JS" width="40" height="40">
 
 
+<a name="features"></a>
 ### <u>Features</u>
 <ol style="color:black">
     <li>AI powered portfolio</li>
     <li>Return of Investment Calculator (ROI)</li>
 </ol>
 
+<a nanme="codeExamples"></a>
 ### <u>Code Examples</u>
 
+<a name="installation"></a>
 ### <u>Installation</u>
 
 
 <a name="apireference"></a>
+
 ## <u>API Reference</u>
 <a href="https://www.alphavantage.co/documentation/" target="_blank">Alpha Vantage</a>
 
 
+<a name="howToUse">
 ### <p style="text-decoration:underline">How to use?</p>
-
 
 
 <a name="credits"></a>
