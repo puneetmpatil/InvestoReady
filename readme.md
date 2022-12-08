@@ -25,8 +25,10 @@ In recent times, investing is as important as earning. Financial literacy can al
 ### <u>Tech/ Framework used</u>
 <u>IDES</u>
 <br>
-![Android Studio](https://img.icons8.com/fluency/48/null/android-studio--v2.png)!
-<a href="https://developer.android.com/studio?gclid=EAIaIQobChMI-YHVttfW-wIVC5JmAh0shAucEAAYASAAEgJW8PD_BwE&gclsrc=aw.ds" target="_blank"><img src="https://img.icons8.com/fluency/48/null/android-studio--v2.png" alt="Android studio" width="40" height="40"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"><a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" alt="Google Colab" width="40" height="40">
+![Android Studio](https://img.icons8.com/fluency/48/null/android-studio--v2.png)
+![Visual Studio Code](https://img.icons8.com/color/48/null/visual-studio-code-2019.png)
+![Google Colab](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432)
+<!-- <a href="https://developer.android.com/studio?gclid=EAIaIQobChMI-YHVttfW-wIVC5JmAh0shAucEAAYASAAEgJW8PD_BwE&gclsrc=aw.ds" target="_blank"><img src="https://img.icons8.com/fluency/48/null/android-studio--v2.png" alt="Android studio" width="40" height="40"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"><a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" alt="Google Colab" width="40" height="40"> -->
 
 <u>Programming Languages</u>
 <br>
