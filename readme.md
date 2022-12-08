@@ -6,6 +6,7 @@ An Android application that will display top 15 stocks (Selected by a stock mark
 - [ Motivation ](#motivation)
 - [ Screenshots ](#screenshots)
 - [ Technology/Framework Used ](#technology)
+- [ Algorithms ](#algorithms)
 - [ Features ](#features)
 - [ Code Examples ](#codeExamples)
 - [ Installation ](#installation)
@@ -47,6 +48,15 @@ In recent times, investing is as important as earning. Financial literacy can al
 <a href="https://www.alphavantage.co/" target="_blank"><img src="images/alphavantage.png" alt="Alpha Vantage" width="40" height="40"></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/pandas.png" alt="Pandas" width="40" height="40"></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React JS" width="40" height="40"></a>
+
+<a name="algorithms"></a>
+### <ins> Algorithms </a>
+1. <ins>ROI Calculator Algorithm</ins>
+<strong>Given : </strong>
+1. Bonus year array
+2. Bonus year ratio factor array
+3. Dividend factor
+4. Price of stock with year varying from current year to base year
 
 
 <a name="features"></a>
