@@ -5,6 +5,13 @@
 - [ Screenshots ](#screenshots)
 - [ API Reference ](#apireference)
 
+
+### Team
+- [@Pratham-cymk](https://www.github.com/Pratham-cymk): Inserting Data into Database
+- [@ram7203](https://github.com/ram7203): UI and Application
+- [@puneetmpatil](https://github.com/puneetmpatil): Worked with Database
+
+<a name = "motivation"></a>
 <a name = "motivation"></a>
 ## <u>Motivation</u>
 In recent times, investing is as important as earning. Financial literacy can allow a person to reach different level of heights. Investing is considered to be a risky task (particularly in stocks) because of which many people avoid it. Hence to make investing easy we are proposing this idea.
