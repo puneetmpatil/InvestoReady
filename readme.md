@@ -75,7 +75,7 @@ In recent times, investing is as important as earning. Financial literacy can al
 
 <a name="credits"></a>
 ### <ins>Credits</ins>
-- [Insert Data from Firebase using Python(https://youtu.be/DCaH4bQ4DxA) 
+- [Insert Data from Firebase using Python](https://youtu.be/DCaH4bQ4DxA) 
 <li><a href="https://youtu.be/DCaH4bQ4DxA" target = "blank" style = "text-decoration:none;color:black"></a></li>
 <li><a href="https://www.geeksforgeeks.org/how-to-retrieve-data-from-the-firebase-realtime-database-in-android/" target = "blank" style = "text-decoration:none;color:black">Retrieve Data from Firebase using Android</a></li>
 
