@@ -98,7 +98,7 @@ For example: TCS has offered 1:1 ratio of stocks in the years 2006, 2009 and 201
 <li>
 for i := (no of years - 2) to 0 and year := (2006)
 <ul>
-<li>If year is a bonus year multiply quantity of stocks by bonus_year_factor_ratio for that year</li>
+<li>If year is a bonus year then multiply quantity of stocks by bonus_year_factor_ratio for that year</li>
 <li>total_dividendent =  total_dividendent + quantity*((price[i]*dividendFactor)/100)</li>
 <li>Increment value of year</li>
 <li>Decrement value of i</li>
