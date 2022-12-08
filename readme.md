@@ -7,9 +7,9 @@
 
 
 ### Team
-- [@Pratham-cymk](https://www.github.com/Pratham-cymk): Inserting Data into Database
-- [@ram7203](https://github.com/ram7203): UI and Application
-- [@puneetmpatil](https://github.com/puneetmpatil): Worked with Database
+- [@Pratham-cymk](https://www.github.com/Pratham-cymk): Backend and Logic of App
+- [@ram7203](https://github.com/ram7203): Frontend
+- [@puneetmpatil](https://github.com/puneetmpatil): Backend and Logic of App
 
 <a name = "motivation"></a>
 ## <u>Motivation</u>
