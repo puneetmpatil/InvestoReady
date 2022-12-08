@@ -51,8 +51,8 @@ In recent times, investing is as important as earning. Financial literacy can al
 
 <a name="algorithms"></a>
 ### <ins> Algorithms </a>
-1. <ins>ROI Calculator Algorithm</ins>
-<strong>Given : </strong>
+1. <ins>**ROI Calculator Algorithm**</ins>
+**Given :**
 1. Bonus year array
 2. Bonus year ratio factor array
 3. Dividend factor
