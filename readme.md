@@ -52,11 +52,19 @@ In recent times, investing is as important as earning. Financial literacy can al
 <a name="algorithms"></a>
 ### <ins> Algorithms </a>
 1. <ins>**ROI Calculator Algorithm**</ins>
+
 **Given :**
 1. Bonus year array
 2. Bonus year ratio factor array
 3. Dividend factor
 4. Price of stock with year varying from current year to base year
+
+**Input :**
+- Investment
+
+**Output :**
+- Total dividend received over no of years (current year - base year)
+- Current evaluation 
 
 
 <a name="features"></a>
