@@ -5,6 +5,7 @@ An Android application that will display top 15 stocks (Selected by a stock mark
 ## Table of Contents
 - [ Motivation ](#motivation)
 - [ Screenshots ](#screenshots)
+- [ Technology/Framework Used ](#technology)
 - [ API Reference ](#apireference)
 
 
@@ -20,11 +21,11 @@ In recent times, investing is as important as earning. Financial literacy can al
 <a name="screenshots"></a>
 ### <u>Screenshots</u>
 
-
+<a name="technology"></a>
 ### <u>Tech/ Framework used</u>
 <u>IDES</u>
 <br>
-<a href="https://developer.android.com/studio?gclid=EAIaIQobChMI-YHVttfW-wIVC5JmAh0shAucEAAYASAAEgJW8PD_BwE&gclsrc=aw.ds" target="_blank"><img src="https://img.icons8.com/fluency/48/null/android-studio--v2.png" alt="Android studio" width="40" height="40"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"><a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" alt="Google Colab" width="40" height="40"><!--<img src="https://img.icons8.com/fluency/48/null/jupyter.png" alt="Jupyter Notebook" width="40" height="40"><a href="https://colab.research.google.com/" target="_blank"> -->
+<a href="https://developer.android.com/studio?gclid=EAIaIQobChMI-YHVttfW-wIVC5JmAh0shAucEAAYASAAEgJW8PD_BwE&gclsrc=aw.ds" target="_blank"><img src="https://img.icons8.com/fluency/48/null/android-studio--v2.png" alt="Android studio" width="40" height="40"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"><a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" alt="Google Colab" width="40" height="40">
 
 <u>Programming Languages</u>
 <br>
@@ -36,7 +37,7 @@ In recent times, investing is as important as earning. Financial literacy can al
 
 <u>Libraries</u>
 <br>
-<a href="https://numpy.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/numpy.png" alt="Numpy" width="40" height="40">
+<a href="https://www.alphavantage.co/" target="_blank"><img src="images/alphavantage.png" alt="Alpha Vantage" width="40" height="40">
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.icons8.com/color/48/null/pandas.png" alt="Pandas" width="40" height="40">
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React JS" width="40" height="40">
 
