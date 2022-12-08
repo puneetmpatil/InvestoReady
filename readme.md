@@ -51,7 +51,11 @@ In recent times, investing is as important as earning. Financial literacy can al
 
 <a name="algorithms"></a>
 ### <ins> Algorithms </a>
-1. <ins>**ROI Calculator Algorithm**</ins>
+- [ ROI Calculator Algorithm ](#ROICalculator)
+- [ Portfolio Generation Algorithm ](#portfolio)
+
+<a name="ROICalculator"></a>
+<ins>**ROI Calculator Algorithm**</ins>
 
 **Given :**
 1. Bonus year array
@@ -66,6 +70,8 @@ In recent times, investing is as important as earning. Financial literacy can al
 - Total dividend received over no of years (current year - base year)
 - Current evaluation 
 
+<a name="portfolio"></a>
+<ins>**Portfolio Generation Algorithm**</ins>
 
 <a name="features"></a>
 ### <ins>Features</ins>
