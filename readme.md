@@ -16,11 +16,9 @@ An Android application that will display top 15 stocks (Selected by a stock mark
 
 
 ### Team
-[@Pratham-cymk](https://www.github.com/Pratham-cymk): Backend & Logic of App
-
-[@ram7203](https://github.com/ram7203): Frontend
-
-[@puneetmpatil](https://github.com/puneetmpatil): Backend & Logic of App
+- [@Pratham-cymk](https://www.github.com/Pratham-cymk): Backend & Logic of App
+- [@ram7203](https://github.com/ram7203): Frontend
+- [@puneetmpatil](https://github.com/puneetmpatil): Backend & Logic of App
 
 <a name = "motivation"></a>
 ## <ins>Motivation</ins>
