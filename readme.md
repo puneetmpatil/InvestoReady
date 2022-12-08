@@ -16,9 +16,9 @@ An Android application that will display top 15 stocks (Selected by a stock mark
 
 
 ### Team
-- [@Pratham-cymk](https://www.github.com/Pratham-cymk): Backend & Logic of App
-- [@ram7203](https://github.com/ram7203): Frontend
-- [@puneetmpatil](https://github.com/puneetmpatil): Backend & Logic of App
+[@Pratham-cymk](https://www.github.com/Pratham-cymk): Backend & Logic of App
+[@ram7203](https://github.com/ram7203): Frontend
+[@puneetmpatil](https://github.com/puneetmpatil): Backend & Logic of App
 
 <a name = "motivation"></a>
 ## <ins>Motivation</ins>
@@ -69,7 +69,7 @@ In recent times, investing is as important as earning. Financial literacy can al
 <a href="https://www.alphavantage.co/documentation/" target="_blank">Alpha Vantage</a>
 
 
-<a name="howToUse">
+<a name="howToUse"></a>
 ### <ins>How to use?</ins>
 
 
