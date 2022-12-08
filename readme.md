@@ -167,7 +167,7 @@ Budget / Investment amount
     <li>Return of Investment Calculator (ROI)</li>
 </ol>
 
-<a nanme="codeExamples"></a>
+<a name="codeExamples"></a>
 
 ### <ins>Code Examples</ins>
 
