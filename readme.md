@@ -113,6 +113,51 @@ for i := (no of years - 2) to 0 and year := (2006)
 <a name="portfolio"></a>
 <ins>**Portfolio Generation Algorithm**</ins>
 
+**Input :**
+Budget / Investment amount
+
+**Output :**
+
+1. Total allocated amount
+2. Sector-wise allocated amount
+3. Quantity of stock sector-wise
+4. Total remaining amount
+
+**Algorithm:**
+<ol>
+<li>Input budget or amount to be invested from user (Minimum investment = 50000)</li>
+<li>We assume the no. of sectors from which stocks will be allocated belong to be 6 and we select the top 3 best stocks from many stocks based on research by a team of experts.</li>
+<li>Find the sector-wise amount to be allotted
+
+**sectoralAmount = budget / noOfSectors**
+</li> 
+<li>We have the top 3 companies per sector wise along with their current prices with us</li>
+<li>for i = 1 to noOfSectors 
+<ol>
+<li>Select a stock from each sector and find the quantity</li>
+<li>
+
+**quantity = sectoralAmount/(price_of_stock_randomly_selected)**
+</li> 
+<li>
+
+**remainingAmountPerSector = sectoralAmount%(price_of_stock_randomly_selected)**
+</li>
+<li>
+
+**totalAllocated = totalAllocated + (quantity * (price_of_stock_randomly_selected))**
+</li>
+</ol></li>
+<li>
+
+**totalRemaining = budget - totalAllocated**
+</li>
+<li>From each sector we find the stock with minimum price and that minimum price should be less than remaining amount</li>
+<li>If no stock can be found which has price less than remaining amount then your portfolio has been generated</li>
+<li>Else u find the additional quantity of stocks which can be bought using the remaining amount</li>
+<li>Find total allocated amount and total remaining amount</li>
+<li> Output the total allocated amount, sector-wise allocated amount, quantity of stock sector-wise and total remaining amount</li>
+</ol>
 <a name="features"></a>
 
 ### <ins>Features</ins>
