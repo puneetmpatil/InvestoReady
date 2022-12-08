@@ -1,9 +1,15 @@
-# TradeMaster
+# InvestoReady
 
+## Table of Contents
+- [ Motivation ](#motivation)
+- [ Screenshots ](#screenshots)
+- [ API Reference ](#apireference)
+
+<a name = "motivation"></a>
 ## <u>Motivation</u>
 In recent times, investing is as important as earning. Financial literacy can allow a person to reach different level of heights. Investing is considered to be a risky task (particularly in stocks) because of which many people avoid it. Hence to make investing easy we are proposing this idea.
 
-
+<a name="screenshots"></a>
 ### <u>Screenshots</u>
 
 
@@ -38,7 +44,7 @@ In recent times, investing is as important as earning. Financial literacy can al
 ### <u>Installation</u>
 
 
-
+<a name="apireference"></a>
 ## <u>API Reference</u>
 <a href="https://www.alphavantage.co/documentation/" target="_blank">Alpha Vantage</a>
 
