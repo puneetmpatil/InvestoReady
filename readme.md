@@ -107,7 +107,9 @@ for i := (no of years - 2) to 0 and year := (2006)
 </ul>
 <li>Output current evaluation and total dividend received
 
-**current_valuation = (current_stock_price * quantity_of_stocks)**</li>
+**current_valuation = (current_stock_price * quantity_of_stocks)**
+
+</li>
 </ol>
 
 <a name="portfolio"></a>
