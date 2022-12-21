@@ -29,6 +29,7 @@ An Android application that will display top 15 stocks (Selected by a stock mark
 In recent times, investing is as important as earning. Financial literacy can allow a person to reach different level of heights. Investing is considered to be a risky task (particularly in stocks) because of which many people avoid it. Hence to make investing easy we are proposing this idea.
 
 <a name="screenshots"></a>
+<!-- Screenshots to be added -->
 
 ### <ins>Screenshots</ins>
 
@@ -167,10 +168,12 @@ Budget / Investment amount
     <li>Return of Investment Calculator (ROI)</li>
 </ol>
 
+<!-- Code Examples -->
 <a name="codeExamples"></a>
 
 ### <ins>Code Examples</ins>
 
+<!-- Installation -->
 <a name="installation"></a>
 
 ### <ins>Installation</ins>
@@ -181,10 +184,12 @@ Budget / Investment amount
 
 <a href="https://www.alphavantage.co/documentation/" target="_blank">Alpha Vantage</a>
 
+<!-- How To Use ? -->
 <a name="howToUse"></a>
 
 ### <ins>How to use?</ins>
 
+<!-- Credits -->
 <a name="credits"></a>
 
 ### <ins>Credits</ins>
