@@ -1,0 +1,92 @@
+[
+  {
+    "symbol": "HDFCBANK",
+    "sector": "BANKNIFTY",
+    "price": 1607.1
+  },
+  {
+    "symbol": "ICICIBANK",
+    "sector": "BANKNIFTY",
+    "price": 930.6
+  },
+  {
+    "symbol": "AXISBANK",
+    "sector": "BANKNIFTY",
+    "price": 905.15
+  },
+  {
+    "symbol": "BAJAJFINSV",
+    "sector": "FINNIFTY",
+    "price": 1642.65
+  },
+  {
+    "symbol": "HDFC",
+    "sector": "FINNIFTY",
+    "price": 2665.3
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "sector": "FINNIFTY",
+    "price": 1630.8
+  },
+  {
+    "symbol": "M&M",
+    "sector": "NIFTYAUTO",
+    "price": 1264.6
+  },
+  {
+    "symbol": "TATAMOTORS",
+    "sector": "NIFTYAUTO",
+    "price": 345.4
+  },
+  {
+    "symbol": "BAJAJAUTO",
+    "sector": "NIFTYAUTO",
+    "price": 3659.35
+  },
+  {
+    "symbol": "INFY",
+    "sector": "NIFTYIT",
+    "price": 1673.9
+  },
+  {
+    "symbol": "TCS",
+    "sector": "NIFTYIT",
+    "price": 3439.15
+  },
+  {
+    "symbol": "HCLTECH",
+    "sector": "NIFTYIT",
+    "price": 1135.55
+  },
+  {
+    "symbol": "ITC",
+    "sector": "NIFTYFMCG",
+    "price": 337.15
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "sector": "NIFTYFMCG",
+    "price": 2615.1
+  },
+  {
+    "symbol": "DABUR",
+    "sector": "NIFTYFMCG",
+    "price": 591.15
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "sector": "NIFTYPHARMA",
+    "price": 1040
+  },
+  {
+    "symbol": "CIPLA",
+    "sector": "NIFTYPHARMA",
+    "price": 1114.35
+  },
+  {
+    "symbol": "GLENNMARK",
+    "sector": "NIFTYPHARMA",
+    "price": 434.15
+  }
+]
