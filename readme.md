@@ -3,7 +3,7 @@
 An Android application that will display top 15 stocks (Selected by a stock market expert) and their analyzed data (P/B Ratio , P/E Ratio , Return on Equity , Dividend Yield , Debt to Equity and Net Profit Margin and Stock Prices from year 2006 to 2022). This application is mainly for beginners. The application also provides the user to automatically generate a portfolio and also provides a Return of Investment Calculator (ROI) for 2 stocks (as of 08/12/2022) namely TCS and Infosys
 
 Demo
-[![App Demo gif](screenshots/demo.gif)]()
+<img src="screenshots/demo.gif" height="500">
 
 ## Table of Contents
 
