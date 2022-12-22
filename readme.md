@@ -218,7 +218,7 @@ Budget / Investment amount
 <ol>
     <li>Download the app from <a href="https://puneetmpatil.github.io/InvestoReadyWebApp/" target="_blank">our website</a></li>
     <li>Sign up using your email id</li>
-    <li>Verify your email address via a confirmation mail which you might have received on your email (Mostly in span folder)</li>
+    <li>Verify your email address via a confirmation mail which you might have received on your email (Mostly in spam folder)</li>
     <li>Login into our app using the verified email address</li>
     <li>You are ready to get started!</li>
 </ol>
