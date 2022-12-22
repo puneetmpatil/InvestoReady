@@ -34,8 +34,6 @@ In recent times, investing is as important as earning. Financial literacy can al
 
 <a name="screenshots"></a>
 
-<!-- Screenshots to be added -->
-
 ### <ins>Screenshots</ins>
 
 <div>
@@ -218,7 +216,13 @@ Budget / Investment amount
 <a name="howToUse"></a>
 
 ### <ins>How to use?</ins>
-
+<ol>
+    <li>Download the app from <a href="https://puneetmpatil.github.io/InvestoReadyWebApp/" target="_blank">our website</a></li>
+    <li>Sign up using your email id</li>
+    <li>Verify your email address via a confirmation mail which you might have received on your email (Mostly in span folder)</li>
+    <li>Login into our app using the verified email address</li>
+    <li>You are ready to get started!</li>
+</ol>
 <!-- Credits -->
 
 <a name="credits"></a>
