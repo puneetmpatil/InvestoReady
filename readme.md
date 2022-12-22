@@ -211,7 +211,6 @@ Budget / Investment amount
 
 <a href="https://www.alphavantage.co/documentation/" target="_blank">Alpha Vantage</a>
 
-<!-- How To Use ? -->
 
 <a name="howToUse"></a>
 
