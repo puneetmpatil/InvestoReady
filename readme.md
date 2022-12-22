@@ -35,7 +35,7 @@ In recent times, investing is as important as earning. Financial literacy can al
 ### <ins>Screenshots</ins>
 
 <div>
-<img src="screenshots/Welcome.png" height="500" alt="Welcome Page" /><img src="screenshots/SignUp.png" height="500" alt="Sign Up Page" /><img src="screenshots/Login.png" height="500" alt="Login Page" />
+<img src="screenshots/Welcome.png" height="500" alt="Welcome Page" />&nbsp;<img src="screenshots/SignUp.png" height="500" alt="Sign Up Page" />&nbsp;<img src="screenshots/Login.png" height="500" alt="Login Page" />
 <img src="screenshots/StockList1.png" height="500" alt="StockList Page" />
 <img src="screenshots/StockList2.png" height="500" alt="StockList Page" />
 <img src="screenshots/StockList3.png" height="500" alt="StockList Page" />
