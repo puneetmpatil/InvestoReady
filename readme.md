@@ -32,6 +32,21 @@ In recent times, investing is as important as earning. Financial literacy can al
 <!-- Screenshots to be added -->
 
 ### <ins>Screenshots</ins>
+<img src="screenshots/Welcome.png" height="500" alt="Welcome Page" />
+<img src="screenshots/SignUp.png" height="500" alt="Sign Up Page" />
+<img src="screenshots/Login.png" height="500" alt="Login Page" />
+<img src="screenshots/StockList1.png" height="500" alt="StockList Page" />
+<img src="screenshots/StockList2.png" height="500" alt="StockList Page" />
+<img src="screenshots/StockList3.png" height="500" alt="StockList Page" />
+<img src="screenshots/Reliance1.png" height="500" alt="Reliance Page" />
+<img src="screenshots/Reliance2.png" height="500" alt="Reliance Page" />
+<img src="screenshots/TCS1.png" height="500" alt="TCS Page" />
+<img src="screenshots/TCS2.png" height="500" alt="TCS Page" />
+<img src="screenshots/Portfolio1.png" height="500" alt=Portfolio Page" />
+<img src="screenshots/Portfolio2.png" height="500" alt=Portfolio Page" />
+<img src="screenshots/Portfolio3.png" height="500" alt=Portfolio Page" />
+<img src="screenshots/ROICalculator1.png" height="500" alt="ROI Calculator Page" />
+<img src="screenshots/Account.png" height="500" alt="Account Page" />
 
 <a name="technology"></a>
 
