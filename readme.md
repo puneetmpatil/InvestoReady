@@ -29,25 +29,27 @@ An Android application that will display top 15 stocks (Selected by a stock mark
 In recent times, investing is as important as earning. Financial literacy can allow a person to reach different level of heights. Investing is considered to be a risky task (particularly in stocks) because of which many people avoid it. Hence to make investing easy we are proposing this idea.
 
 <a name="screenshots"></a>
+
 <!-- Screenshots to be added -->
 
 ### <ins>Screenshots</ins>
-<img src="screenshots/Welcome.png" height="300" alt="Welcome Page" />
-<img src="screenshots/SignUp.png" height="300" alt="Sign Up Page" />
-<img src="screenshots/Login.png" height="300" alt="Login Page" />
-<img src="screenshots/StockList1.png" height="300" alt="StockList Page" />
-<img src="screenshots/StockList2.png" height="300" alt="StockList Page" />
-<img src="screenshots/StockList3.png" height="300" alt="StockList Page" />
-<img src="screenshots/Reliance1.png" height="300" alt="Reliance Page" />
-<img src="screenshots/Reliance2.png" height="300" alt="Reliance Page" />
-<img src="screenshots/TCS1.png" height="300" alt="TCS Page" />
-<img src="screenshots/TCS2.png" height="300" alt="TCS Page" />
-<img src="screenshots/Portfolio1.png" height="300" alt=Portfolio Page" />
-<img src="screenshots/Portfolio2.png" height="300" alt=Portfolio Page" />
-<img src="screenshots/Portfolio3.png" height="300" alt=Portfolio Page" />
-<img src="screenshots/ROICalculator1.png" height="300" alt="ROI Calculator Page" />
-<img src="screenshots/Account.png" height="300" alt="Account Page" />
 
+<div>
+<img src="screenshots/Welcome.png" height="500" alt="Welcome Page" /><img src="screenshots/SignUp.png" height="500" alt="Sign Up Page" />
+<img src="screenshots/Login.png" height="500" alt="Login Page" />
+<img src="screenshots/StockList1.png" height="500" alt="StockList Page" />
+<img src="screenshots/StockList2.png" height="500" alt="StockList Page" />
+<img src="screenshots/StockList3.png" height="500" alt="StockList Page" />
+<img src="screenshots/Reliance1.png" height="500" alt="Reliance Page" />
+<img src="screenshots/Reliance2.png" height="500" alt="Reliance Page" />
+<img src="screenshots/TCS1.png" height="500" alt="TCS Page" />
+<img src="screenshots/TCS2.png" height="500" alt="TCS Page" />
+<img src="screenshots/Portfolio1.png" height="500" alt=Portfolio Page" />
+<img src="screenshots/Portfolio2.png" height="500" alt=Portfolio Page" />
+<img src="screenshots/Portfolio3.png" height="500" alt=Portfolio Page" />
+<img src="screenshots/ROICalculator1.png" height="500" alt="ROI Calculator Page" />
+<img src="screenshots/Account.png" height="500" alt="Account Page" />
+</div>
 <a name="technology"></a>
 
 ### <ins>Tech/ Framework used</ins>
@@ -110,6 +112,7 @@ For example: TCS has offered 1:1 ratio of stocks in the years 2006, 2009 and 201
 <li>Find initial quantity of stocks</li>
 
 **quantity = investment_amount/price(2006)**
+
 <li>Initialize total dividend to zero</li>
 <li>
 for i := (no of years - 2) to 0 and year := (2006)
@@ -121,7 +124,7 @@ for i := (no of years - 2) to 0 and year := (2006)
 </ul>
 <li>Output current evaluation and total dividend received
 
-**current_valuation = (current_stock_price * quantity_of_stocks)**
+**current_valuation = (current_stock_price \* quantity_of_stocks)**
 
 </li>
 </ol>
@@ -140,12 +143,14 @@ Budget / Investment amount
 4. Total remaining amount
 
 **Algorithm:**
+
 <ol>
-<li>Input budget or amount to be invested from user (Minimum investment = 30000)</li>
+<li>Input budget or amount to be invested from user (Minimum investment = 50000)</li>
 <li>We assume the no. of sectors from which stocks will be allocated belong to be 6 and we select the top 3 best stocks from many stocks based on research by a team of experts.</li>
 <li>Find the sector-wise amount to be allotted
 
 **sectoralAmount = budget / noOfSectors**
+
 </li> 
 <li>We have the top 3 companies per sector wise along with their current prices with us</li>
 <li>for i = 1 to noOfSectors 
@@ -154,19 +159,23 @@ Budget / Investment amount
 <li>
 
 **quantity = sectoralAmount/(price_of_stock_randomly_selected)**
+
 </li> 
 <li>
 
 **remainingAmountPerSector = sectoralAmount%(price_of_stock_randomly_selected)**
+
 </li>
 <li>
 
-**totalAllocated = totalAllocated + (quantity * (price_of_stock_randomly_selected))**
+**totalAllocated = totalAllocated + (quantity \* (price_of_stock_randomly_selected))**
+
 </li>
 </ol></li>
 <li>
 
 **totalRemaining = budget - totalAllocated**
+
 </li>
 <li>From each sector we find the stock with minimum price and that minimum price should be less than remaining amount</li>
 <li>If no stock can be found which has price less than remaining amount then your portfolio has been generated</li>
@@ -184,11 +193,13 @@ Budget / Investment amount
 </ol>
 
 <!-- Code Examples -->
+
 <a name="codeExamples"></a>
 
 ### <ins>Code Examples</ins>
 
 <!-- Installation -->
+
 <a name="installation"></a>
 
 ### <ins>Installation</ins>
@@ -200,11 +211,13 @@ Budget / Investment amount
 <a href="https://www.alphavantage.co/documentation/" target="_blank">Alpha Vantage</a>
 
 <!-- How To Use ? -->
+
 <a name="howToUse"></a>
 
 ### <ins>How to use?</ins>
 
 <!-- Credits -->
+
 <a name="credits"></a>
 
 ### <ins>Credits</ins>
