@@ -32,21 +32,21 @@ In recent times, investing is as important as earning. Financial literacy can al
 <!-- Screenshots to be added -->
 
 ### <ins>Screenshots</ins>
-<img src="screenshots/Welcome.png" height="500" alt="Welcome Page" />
-<img src="screenshots/SignUp.png" height="500" alt="Sign Up Page" />
-<img src="screenshots/Login.png" height="500" alt="Login Page" />
-<img src="screenshots/StockList1.png" height="500" alt="StockList Page" />
-<img src="screenshots/StockList2.png" height="500" alt="StockList Page" />
-<img src="screenshots/StockList3.png" height="500" alt="StockList Page" />
-<img src="screenshots/Reliance1.png" height="500" alt="Reliance Page" />
-<img src="screenshots/Reliance2.png" height="500" alt="Reliance Page" />
-<img src="screenshots/TCS1.png" height="500" alt="TCS Page" />
-<img src="screenshots/TCS2.png" height="500" alt="TCS Page" />
-<img src="screenshots/Portfolio1.png" height="500" alt=Portfolio Page" />
-<img src="screenshots/Portfolio2.png" height="500" alt=Portfolio Page" />
-<img src="screenshots/Portfolio3.png" height="500" alt=Portfolio Page" />
-<img src="screenshots/ROICalculator1.png" height="500" alt="ROI Calculator Page" />
-<img src="screenshots/Account.png" height="500" alt="Account Page" />
+<img src="screenshots/Welcome.png" height="300" alt="Welcome Page" />
+<img src="screenshots/SignUp.png" height="300" alt="Sign Up Page" />
+<img src="screenshots/Login.png" height="300" alt="Login Page" />
+<img src="screenshots/StockList1.png" height="300" alt="StockList Page" />
+<img src="screenshots/StockList2.png" height="300" alt="StockList Page" />
+<img src="screenshots/StockList3.png" height="300" alt="StockList Page" />
+<img src="screenshots/Reliance1.png" height="300" alt="Reliance Page" />
+<img src="screenshots/Reliance2.png" height="300" alt="Reliance Page" />
+<img src="screenshots/TCS1.png" height="300" alt="TCS Page" />
+<img src="screenshots/TCS2.png" height="300" alt="TCS Page" />
+<img src="screenshots/Portfolio1.png" height="300" alt=Portfolio Page" />
+<img src="screenshots/Portfolio2.png" height="300" alt=Portfolio Page" />
+<img src="screenshots/Portfolio3.png" height="300" alt=Portfolio Page" />
+<img src="screenshots/ROICalculator1.png" height="300" alt="ROI Calculator Page" />
+<img src="screenshots/Account.png" height="300" alt="Account Page" />
 
 <a name="technology"></a>
 
@@ -141,7 +141,7 @@ Budget / Investment amount
 
 **Algorithm:**
 <ol>
-<li>Input budget or amount to be invested from user (Minimum investment = 50000)</li>
+<li>Input budget or amount to be invested from user (Minimum investment = 30000)</li>
 <li>We assume the no. of sectors from which stocks will be allocated belong to be 6 and we select the top 3 best stocks from many stocks based on research by a team of experts.</li>
 <li>Find the sector-wise amount to be allotted
 
